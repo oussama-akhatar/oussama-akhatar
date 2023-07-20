@@ -1,3 +1,5 @@
+<p align="center"><img src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif" /></p>
+
 <h1 align="center">Hi 👋, I'm AKHATAR Oussama</h1>
 <h3 align="center">A passionate Software Engineer from Morocco</h3>
 
