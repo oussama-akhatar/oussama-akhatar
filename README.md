@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussama-akhatar&label=Profile%20views&color=0e75b6&style=flat" alt="oussama-akhatar" /> </p>
 
-- 🌱 I’m currently **interested in scaling up my career**
+- 🌱 I’m currently interested in scaling up **my career**
 
-- 👯 I’m always looking to collaborate **with others**
+- 👯 I’m always looking to **collaborate with others**
 
 - 👨‍💻 All of my projects are available at [https://oussama-akhatar.vercel.app/](https://oussama-akhatar.vercel.app/)
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://cvdesignr.com/p/648b02dac7068?hl=en_GB](https://cvdesignr.com/p/648b02dac7068?hl=en_GB)
 
-- ⚡ Fun fact **I am a big Real Madrid fun**
+- ⚡ Fun fact I love **Football** and I am a big **Real Madrid** fun
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
