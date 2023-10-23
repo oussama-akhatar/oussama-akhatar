@@ -30,7 +30,7 @@
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,js,ts,php,py&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,java,js,ts,py&perline=10&theme=light" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@
 <h3 align="left">Backend Development:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,graphql,nginx,kafka&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,php,graphql" />
   </a>
 </p>
 
