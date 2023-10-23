@@ -37,7 +37,7 @@
 <h3 align="left">Frontend Development:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,angular,react,webpack,gulp&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,angular,react,nextjs&theme=light" />
   </a>
 </p>
 
