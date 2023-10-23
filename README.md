@@ -44,7 +44,7 @@
 <h3 align="left">Backend Development:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,php,graphql&theme=light" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,spring,nodejs,symfony,django,flask,graphql&theme=light" />
   </a>
 </p>
 
@@ -79,7 +79,7 @@
 <h3 align="left">Framework:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,symfony,django,flask,dotnet&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=,dotnet&perline=10&theme=light" />
   </a>
 </p>
 
