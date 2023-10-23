@@ -22,8 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://fb.com/mr.oussama.akhatar" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto&theme=light" alt="soulaimanedahi" width="40" /></a>
-<a href="https://instagram.com/akhatar.oussama" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="iamsoulaimane" width="40" /></a>
+<a href="https://fb.com/mr.oussama.akhatar" target="blank"><img align="center" src="https://skillicons.dev/icons?i=facebook" alt="soulaimanedahi" width="40" /></a>
+<a href="https://instagram.com/akhatar.oussama" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="iamsoulaimane" width="40" /></a>
 <a href="https://linkedin.com/in/oussamaakhatar" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="soulaimanedahi" width="40" /></a>
 </p>
 
