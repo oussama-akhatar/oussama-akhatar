@@ -76,20 +76,6 @@
   </a>
 </p>
 
-<h3 align="left">Framework:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,dotnet&perline=10&theme=light" />
-  </a>
-</p>
-
-<h3 align="left">Testing:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest&theme=light" />
-  </a>
-</p>
-
 <h3 align="left">Software:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
