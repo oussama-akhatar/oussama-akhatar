@@ -62,13 +62,6 @@
   </a>
 </p>
 
-<h3 align="left">Devops:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,jenkins,docker,aws,gcp&perline=10&theme=light" />
-  </a>
-</p>
-
 <h3 align="left">Backend as a Service(BaaS):</h3>
 <p align="left">
   <a href="https://skillicons.dev">
