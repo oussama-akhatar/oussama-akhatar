@@ -5,6 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussama-akhatar&label=Profile%20views&color=0e75b6&style=flat" alt="oussama-akhatar" /> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/mr.oussama.akhatar" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="" width="40" /></a>
+<a href="https://instagram.com/akhatar.oussama" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="" width="40" /></a>
+<a href="https://linkedin.com/in/oussamaakhatar" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="" width="40" /></a>
+</p>
+
 - 🌱 I’m currently interested in scaling up **my career**
 
 - 👯 I’m always looking to **collaborate with others**
@@ -18,14 +25,6 @@
 - 📄 Know about my experiences [https://cvdesignr.com/p/648b02dac7068?hl=en_GB](https://cvdesignr.com/p/648b02dac7068?hl=en_GB)
 
 - ⚡ Fun fact I love **Football** and I am a big **Real Madrid** fun
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://fb.com/mr.oussama.akhatar" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="" width="40" /></a>
-<a href="https://instagram.com/akhatar.oussama" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="" width="40" /></a>
-<a href="https://linkedin.com/in/oussamaakhatar" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="" width="40" /></a>
-</p>
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
