@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm AKHATAR Oussama</h1>
 <h3 align="center">A passionate Software Engineer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oussama-akhatar&label=Profile%20views&color=0e75b6&style=flat" alt="oussama-akhatar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soulaimanedahi&label=Profile%20views&color=0e75b6&style=flat" alt="soulaimanedahi" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
