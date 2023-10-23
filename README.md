@@ -44,7 +44,7 @@
 <h3 align="left">Backend Development:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,php,graphql" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,php,graphql&theme=light" />
   </a>
 </p>
 
