@@ -59,7 +59,7 @@
 <h3 align="left">Software:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,xd,figma,postman,vscode,visualstudio,eclipse,idea&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,xd,pr,figma,postman,vscode,visualstudio,eclipse,idea,phpstorm&perline=10&theme=light" />
   </a>
 </p>
 
