@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://oussama-akhatar.vercel.app/](https://oussama-akhatar.vercel.app/)
 
-- 💬 Ask me about **React, Angular and Spring Boot**
+- 💬 Ask me about **React JS, Next JS and Symfony**
 
 - 📫 How to reach me **oussamaakhatar2@gmail.com**
 
