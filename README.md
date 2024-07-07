@@ -28,45 +28,31 @@
 
 - ⚡ Fun fact I love **Football** and I am a big **Real Madrid** fun
 
-<h3 align="left">Programming Languages:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,js,ts,py&perline=10&theme=light" />
-  </a>
-</p>
-
 <h3 align="left">Frontend Development:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,angular,react,nextjs&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,nextjs,js,ts&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Backend Development:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,spring,nodejs,symfony,django,flask,graphql&theme=light" />
-  </a>
-</p>
-
-<h3 align="left">AI/ML:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow&theme=light" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,symfony,flask&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Database:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,hibernate,mongodb,redis&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,hibernate,mongodb&perline=10&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Backend as a Service(BaaS):</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,heroku,vercel&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=firebase,vercel&perline=10&theme=light" />
   </a>
 </p>
 
