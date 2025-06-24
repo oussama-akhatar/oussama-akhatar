@@ -45,7 +45,7 @@
 <h3 align="left">Database:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,hibernate,mongodb&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=10&theme=light" />
   </a>
 </p>
 
